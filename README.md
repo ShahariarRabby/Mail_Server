@@ -75,6 +75,8 @@ ctypes
 
 **Server.py** send connection request to server on every 15 sec and notify user if there is new email. It is depandent on  **ReceiveMail.py** </li>
 </ol>
+
+
 # Bugs
 **In `py` file `getpass.getpass()` function is not working on my terminal. So I remove them from `py` file.
 It will work well in `.ipynb` file. Try your terminal that it works your pc or not.**

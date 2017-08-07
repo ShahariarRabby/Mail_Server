@@ -38,7 +38,7 @@
 <div id="divs">
           
           
-      <h1 id='Hello'>Hello Nasty boy</h1>
+      <h1 id='Hello'>Hello boy</h1>
     
       <img src="https://image.ibb.co/c8J9NF/20227145_1549533575110611_1972302616_n.png" alt="20227145_1549533575110611_1972302616_n">
       

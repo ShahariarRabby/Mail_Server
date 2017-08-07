@@ -2,6 +2,7 @@
 # ! /usr/bin/python
 __author__ = 'Shahariar Rabby'
 
+# This will read details and send email to clint
 
 # # Sendy
 # ### Importing Send mail file

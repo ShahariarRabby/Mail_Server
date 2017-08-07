@@ -56,7 +56,14 @@ ctypes
 </li>
 </ol>
 
-
+# Files
+<ol>
+<li> **Sendmail.py** is the main file for sending mail. All send function is under that file</li>
+<li> **Sendy.py** can send mail. It is depandent on  **Sendmail.py**</li>
+<li> **ReceiveMail.py** is the main file for reciving mail. All reciving function is under that file</li>
+<li> **CheckMail.py** is check a number of file from server. It is depandent on  **ReceiveMail.py**</li>
+<li> **Server.py** send connection request to server on every 15 sec and notify user if there is new email. It is depandent on  **ReceiveMail.py** </li>
+</ol>
 # Bugs
 **In `py` file `getpass.getpass()` function is not working on my terminal. So I remove them from `py` file.
 It will work well in `.ipynb` file. Try your terminal that it works your pc or not.**

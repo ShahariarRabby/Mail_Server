@@ -2,6 +2,10 @@
 # ! /usr/bin/python
 __author__ = 'Shahariar Rabby'
 
+# main recive mail file. All recive mail, check mail, server file import it
+# All function define here
+
+
 # # Recive Mail
 # #### Importing all dependency
 

@@ -38,7 +38,7 @@
 <div id="divs">
           
           
-      <h1 id='Hello'>Hello Nasty boy</h1>
+      <h1 id='Hello'>Hello boy</h1>
     
       <img src="https://image.ibb.co/c8J9NF/20227145_1549533575110611_1972302616_n.png" alt="20227145_1549533575110611_1972302616_n">
       
@@ -46,16 +46,6 @@
           Wish you many many happy reaturns of the day.
       </p>
     <h2 style="color: aqua; text-align: center;" >Shahariar Rabby</h2>
-<!--
-      
-      <a href="https://ibb.co/mOMw2F"><img src="https://preview.ibb.co/krkOhF/sharon_chen_325118.jpg" alt="sharon_chen_325118" border="0"></a>
--->
-<!--
-    <p>Hi!<br>
-       How are you?<br>
-        <img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">       Here is the <a href="http://www.python.org">link</a> you wanted.
-    </p>
--->
     </div>
   </body>
 </html>

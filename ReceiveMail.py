@@ -94,7 +94,10 @@ def loop():
                     original = email.message_from_string(response_part[1])
                     print original['From']
                     data = original['Subject']
-                    playsound('demonstrative.wav') #play sound when mail recive
+                    try:
+                        playsound('demonstrative.wav') #play sound when mail recive
+                    except:
+                        print "New mail reived.\nCan't play audio"
                     print data
                     print "Read mail: https://gmail.com"
                     if data == 'eject': #make mail status unseen to seen

@@ -5,10 +5,10 @@
 ### If you want to understand the code see the ipynb file. `.py` files are for running purpose.
 
 ## You may only need to install *playsound* library `pip install playsound` 
-#### library need to install:
+#### library needed:
 
 
-if you face any problem please follow this process to install the library
+**if you face any problem please follow this process to install the library**
 
 
 <ol>

@@ -5,13 +5,13 @@
 ### If you want to understand the code see the ipynb file. `.py` files are for running purpose.
 
 ## You may only need to install *playsound* library `pip install playsound` 
-#### library needed:
+#### Library needed:
 
 
-**if you face any problem please follow this process to install the library**
+**If you face any problem please follow this process to install the library**
 
 
-<ol>
+<ul>
 <li> 
 smtplib
 
@@ -54,26 +54,27 @@ ctypes
 
 **For install ctypes run**`pip install ctypes`
 </li>
-</ol>
+</ul>
 
 # Files
 <ol>
 <li> 
 
-**Sendmail.py** is the main file for sending mail. All send function is under that file
+**Sendmail.py** is the main file for sending mail. All send function is under that file. *No need to run*
 </li>
 <li>
 
 **Sendy.py** can send mail. It is depandent on  **Sendmail.py**</li>
 <li>
 
-**ReceiveMail.py** is the main file for reciving mail. All reciving function is under that file</li>
+**ReceiveMail.py** is the main file for reciving mail. All reciving function is under that file *No need to run*
+</li>
 <li> 
 
 **CheckMail.py** is check a number of file from server. It is depandent on  **ReceiveMail.py**</li>
 <li> 
 
-**Server.py** send connection request to server on every 15 sec and notify user if there is new email. It is depandent on  **ReceiveMail.py** </li>
+**Server.py** send connection request to server in every 15 sec and notify user if there is new email. It is depandent on  **ReceiveMail.py** </li>
 </ol>
 
 

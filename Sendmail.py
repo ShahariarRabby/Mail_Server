@@ -2,7 +2,8 @@
 # ! /usr/bin/python
 __author__ = 'Shahariar Rabby'
 
-
+# This is main send mail file, All function define here.
+# other file import it and work
 
 # ### Send email Clint
 # #### Importing all dependency

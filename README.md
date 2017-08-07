@@ -1,11 +1,11 @@
 # Mail Server
-### This can send and recive mail from Gmail server.
+# This can send and receive mail from Gmail server.
 
-## All code are well descive. Please see the ipynb file for more details. Also read the comment.
-## If you want to underestand the code see the ipynb file. `.py` files are for running perpose.
+### All code is well described. Please see the `ipynb` file for more details. Also read the comment.
+### If you want to understand the code see the ipynb file. `.py` files are for running purpose.
 
-## You may only need to install *playsound* library `pip install *playsound*`
-** library need to install: **
+## You may only need to install *playsound* library `pip install playsound` 
+#### library need to install:
 
 
 if you face any problem please follow this process to install the library
@@ -15,49 +15,51 @@ if you face any problem please follow this process to install the library
 <li> 
 smtplib
 
-**For install smtp lib run **`pip install smtplib`
+**For install smtp lib run** `pip install smtplib`
 </li>
 
 <li> 
 email
 
-**For install email run **`pip install email`
+**For install email run**`pip install email`
 </li>
 
 <li> 
 getpass
 
-**For install getpass run **`pip install getpass`
+**For install getpass run**`pip install getpass`
 </li>
 
 <li> 
 imaplib
 
-**For install imaplib run **`pip install imaplib`
+**For install imaplib run**`pip install imaplib`
 </li>
 
+
 <li> 
+
 **playsound**
 
-**For install playsound run **`pip install playsound`
+**For install playsound run** `pip install playsound`
 </li>
 
 <li> 
 threading
 
-**For install threading run **`pip install threading`
+**For install threading run**`pip install threading`
 </li>
 <li> 
 ctypes
 
-**For install ctypes run **`pip install ctypes`
+**For install ctypes run**`pip install ctypes`
 </li>
 </ol>
 
 
 # Bugs
-** In `py`  file `getpass.getpass()` function is not working on my terminal. So i remove them from `py` file.
-It will work well in `.ipynb` file. Try your terminal that it work your pc or not.
+**In `py` file `getpass.getpass()` function is not working on my terminal. So I remove them from `py` file.
+It will work well in `.ipynb` file. Try your terminal that it works your pc or not.**
 
 
 # Thank You

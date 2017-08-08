@@ -100,9 +100,6 @@ def loop():
                         print "New mail reived.\nCan't play audio"
                     print data
                     print "Read mail: https://gmail.com"
-                    if data == 'eject': #make mail status unseen to seen
-                        ctypes.windll.WINMM.mciSendStringW(u"set cdaudio door open", None, 0, None)
-                    typ, data = mail.store(num, '+FLAGS', '\\Seen')
 
     from sys import stdout
     stdout.write(str('#')) #printing mail server is alive

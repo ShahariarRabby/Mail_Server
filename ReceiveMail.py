@@ -16,7 +16,10 @@ import imaplib
 import ctypes
 import getpass
 import threading
-from playsound import playsound
+try:
+    from playsound import playsound
+except:
+    print "Playsound can not found"
 
 
 # #### User Details Function

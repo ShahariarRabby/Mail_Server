@@ -1,6 +1,6 @@
 # Mail Server
 # This can send and receive mail from Gmail server.
-
+## Python 2
 ### All code is well described. Please see the `ipynb` file for more details. Also read the comment.
 ### If you want to understand the code see the ipynb file. `.py` files are for running purpose.
 
@@ -79,8 +79,10 @@ ctypes
 
 
 # Bugs
-**In `py` file `getpass.getpass()` function is not working on my terminal. So I remove them from `py` file.
+**In `py` file `getpass.getpass()` function is not working on my windows terminal. So I remove them from `py` file.
 It will work well in `.ipynb` file. Try your terminal that it works your pc or not.**
+
+**`getpass.getpass()` is working on qpython 2 and Linux**
 
 # License
 **MIT License**

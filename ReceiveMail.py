@@ -31,7 +31,7 @@ def user():
 #    FROM_EMAIL = "your email" + ORG_EMAIL
 #    FROM_PWD = "your pass"
     FROM_EMAIL = raw_input("Insert Your Email : ")
-    #FROM_PWD = getpass.getpass("Input Your Password : ") getpass is not working in my terminal, try yours too
+    #FROM_PWD = getpass.getpass("Input Your Password : ") # getpass is not working in my terminal, try yours too
     FROM_PWD = raw_input("Input Your Password : ")
     return FROM_EMAIL,FROM_PWD
 
